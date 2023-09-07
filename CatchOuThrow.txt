@@ -1,0 +1,7 @@
+Exemple 1: On devrait throw, car c'est au parent ,ici main, de s'occuper de gerer l'erreur
+on ne fait que definir c'est quoi.
+
+Exemple 2:
+
+Exemple 3: Catch, car le parent ne fait que l'appeler, c'est donc a lui de gerer le probleme
+s'il y en a un.

@@ -1,0 +1,6 @@
+Le premier est bon, car on sait les erreurs qui peuvent occurer et on sait quoi faire 
+si jamais on tombe sur l'une d'elle.
+
+Le deuxieme est pas bon, car ils faudrait prendre en compte toutes les Exceptions possible
+et non juste celui de NumberFormatException.
+ 

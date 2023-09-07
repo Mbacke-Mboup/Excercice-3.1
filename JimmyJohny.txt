@@ -1,0 +1,2 @@
+Apres avoir excecuter le code, je constate que Jimmy a raison, car sa méthode lit tous les fichiers,
+tandis que celui de Johny ne lit que le premier fichier.
