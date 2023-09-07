@@ -1,7 +1,8 @@
 Exemple 1: On devrait throw, car c'est au parent ,ici main, de s'occuper de gerer l'erreur
 on ne fait que definir c'est quoi.
 
-Exemple 2:
+Exemple 2: un catch, car il faudrait définir un cas ou la valeur entrer dans la liste est négatives,
+on ne peut pas juste se contenter de lancer l'erreur, car c'est a la methode main de s'occuper du probleme.
 
 Exemple 3: Catch, car le parent ne fait que l'appeler, c'est donc a lui de gerer le probleme
 s'il y en a un.
